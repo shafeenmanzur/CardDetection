@@ -1,5 +1,5 @@
 # CardDetection
-A program that detects cards within a webcam or video stream and displays it as a static image. 
+A simple program that utlizes the OpenCV library to detect cards within a webcam or video stream and displays it as a static image. 
 
 To call the program from the terminal use the following template:
 
